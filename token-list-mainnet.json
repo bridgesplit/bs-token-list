@@ -5,6 +5,7 @@
         "symbol": "DAOJONES",
         "name": "Fractionalized SMB-2367",
         "decimals": 2,
+        "collection": "SMB Gen2",
         "logoURI": "https://arweave.net/ncRp795w-ca_Xb5zkUBtBmxSQ_bcYA49E03NtMoHJMg",
         "tags": [
             "bridgesplit-fraction",
@@ -23,6 +24,7 @@
         "symbol": "WAV",
         "name": "Fractionalized WAVE-999",
         "decimals": 2,
+        "collection": "Waves Collection",
         "logoURI": "https://www.arweave.net/qV0rFkGG-cTdtgRu7le-k8DstT8_-pzG2MWsceSlXjQ?ext=png",
         "tags": [
             "bridgesplit-fraction",
