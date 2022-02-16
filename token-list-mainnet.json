@@ -1,1 +1,80 @@
-{"r8nuuzXCchjtqsmQZVZDPXXq928tuk7KVH479GsKVpy":{"chainId":101,"address":"r8nuuzXCchjtqsmQZVZDPXXq928tuk7KVH479GsKVpy","symbol":"DAOJONES","name":"Fractionalized SMB-2367","decimals":2,"collection":"SMB Gen2","logoURI":"https://arweave.net/ncRp795w-ca_Xb5zkUBtBmxSQ_bcYA49E03NtMoHJMg","tags":["single-asset","bridgesplit-fraction","smb","fnft"],"extensions":{"discord":"https://discord.gg/fjrFpbweAP","twitter":"https://twitter.com/bridgesplit","vault":"https://app.bridgesplit.com/vault/r8nuuzXCchjtqsmQZVZDPXXq928tuk7KVH479GsKVpy"}},"4NGNdLiQ1KG8GgqZimKku4WCLdXbNw6UQJvqax3fE6CJ":{"chainId":101,"address":"4NGNdLiQ1KG8GgqZimKku4WCLdXbNw6UQJvqax3fE6CJ","symbol":"WAV","name":"Fractionalized WAVE-999","decimals":2,"collection":"Waves Collection","logoURI":"https://www.arweave.net/qV0rFkGG-cTdtgRu7le-k8DstT8_-pzG2MWsceSlXjQ?ext=png","tags":["single-asset","bridgesplit-fraction","playground_dao","fnft"],"extensions":{"discord":"https://discord.gg/fjrFpbweAP","twitter":"https://twitter.com/bridgesplit","vault":"https://app.bridgesplit.com/vault/4NGNdLiQ1KG8GgqZimKku4WCLdXbNw6UQJvqax3fE6CJ"}},"BBaKRCCKHAsE9EHXDcVZpt8iGai6kHrv6GnZCeRuGun1":{"chainId":103,"address":"BBaKRCCKHAsE9EHXDcVZpt8iGai6kHrv6GnZCeRuGun1","symbol":"2","name":"Multi asset curated pool","collection":"Assorted collections","decimals":2,"logoURI":"https://devnet.bridgesplit.com/NftPlaceholder.0fb715f.png","tags":["single-asset","bridgesplit-fraction","fnft"],"extensions":{"discord":"https://discord.gg/bridgesplit","twitter":"https://twitter.com/bridgesplit","vault":"https://devnet.bridgesplit.com/create/pool/BBaKRCCKHAsE9EHXDcVZpt8iGai6kHrv6GnZCeRuGun1"}},"J3cSE7EDRvsB4yoJ3AN7PYh4ZBQQQVjwSebmTJaXHbBU":{"chainId":103,"address":"J3cSE7EDRvsB4yoJ3AN7PYh4ZBQQQVjwSebmTJaXHbBU","symbol":"2","name":"Multi asset curated pool","collection":"Assorted collections","decimals":2,"logoURI":"https://devnet.bridgesplit.com/NftPlaceholder.0fb715f.png","tags":["single-asset","bridgesplit-fraction","fnft"],"extensions":{"discord":"https://discord.gg/bridgesplit","twitter":"https://twitter.com/bridgesplit","vault":"https://devnet.bridgesplit.com/create/pool/J3cSE7EDRvsB4yoJ3AN7PYh4ZBQQQVjwSebmTJaXHbBU"}},"Cp1LteGbLzEsir91Xg4cVGpEQo1eDVUcgvbbPzGu52Zi":{"chainId":103,"address":"Cp1LteGbLzEsir91Xg4cVGpEQo1eDVUcgvbbPzGu52Zi","symbol":"1","name":"Multi asset curated pool","collection":"Assorted collections","decimals":2,"logoURI":"https://devnet.bridgesplit.com/NftPlaceholder.0fb715f.png","tags":["single-asset","bridgesplit-fraction","fnft"],"extensions":{"discord":"https://discord.gg/bridgesplit","twitter":"https://twitter.com/bridgesplit","vault":"https://devnet.bridgesplit.com/create/pool/Cp1LteGbLzEsir91Xg4cVGpEQo1eDVUcgvbbPzGu52Zi"}}}
+{
+    "r8nuuzXCchjtqsmQZVZDPXXq928tuk7KVH479GsKVpy": {
+        "chainId": 101,
+        "address": "r8nuuzXCchjtqsmQZVZDPXXq928tuk7KVH479GsKVpy",
+        "symbol": "DAOJONES",
+        "name": "Fractionalized SMB-2367",
+        "decimals": 2,
+        "collection": "SMB Gen2",
+        "logoURI": "https://arweave.net/ncRp795w-ca_Xb5zkUBtBmxSQ_bcYA49E03NtMoHJMg",
+        "tags": [
+            "single-asset",
+            "bridgesplit-fraction",
+            "smb",
+            "fnft"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/fjrFpbweAP",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/r8nuuzXCchjtqsmQZVZDPXXq928tuk7KVH479GsKVpy"
+        }
+    },
+    "4NGNdLiQ1KG8GgqZimKku4WCLdXbNw6UQJvqax3fE6CJ": {
+        "chainId": 101,
+        "address": "4NGNdLiQ1KG8GgqZimKku4WCLdXbNw6UQJvqax3fE6CJ",
+        "symbol": "WAV",
+        "name": "Fractionalized WAVE-999",
+        "decimals": 2,
+        "collection": "Waves Collection",
+        "logoURI": "https://www.arweave.net/qV0rFkGG-cTdtgRu7le-k8DstT8_-pzG2MWsceSlXjQ?ext=png",
+        "tags": [
+            "single-asset",
+            "bridgesplit-fraction",
+            "playground_dao",
+            "fnft"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/fjrFpbweAP",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/4NGNdLiQ1KG8GgqZimKku4WCLdXbNw6UQJvqax3fE6CJ"
+        }
+    },
+    "BDNRJZ6MA3YRhHcewYMjRDEc7oWQCxHknXU98wwTsSxu": {
+        "chainId": 101,
+        "address": "BDNRJZ6MA3YRhHcewYMjRDEc7oWQCxHknXU98wwTsSxu",
+        "symbol": "OOO",
+        "name": "Particles DAO multi asset pool",
+        "decimals": 2,
+        "collection": "Assorted collections",
+        "logoURI": "https://particlesnft.io/_next/image?url=%2Fjewel.PNG&w=640&q=75",
+        "tags": [
+            "multi-asset",
+            "bridgesplit-fraction",
+            "particles_dao"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/fjrFpbweAP",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/pool/BDNRJZ6MA3YRhHcewYMjRDEc7oWQCxHknXU98wwTsSxu"
+        }
+    },
+    "E6oCGvmSYW7qhy7oeDfiNZLX6hEmPCVxBC8AknwAj82B": {
+        "chainId": 101,
+        "address": "E6oCGvmSYW7qhy7oeDfiNZLX6hEmPCVxBC8AknwAj82B",
+        "symbol": "PLAYA",
+        "name": "Playground DAO multi asset pool",
+        "decimals": 2,
+        "collection": "Assorted Collections",
+        "logoURI": "https://ybtrj4uri4zn4ob36ww7gdkqek3tkpm3uqq3mhsavul4ls5us3aa.arweave.net/wGcU8pFHMt44O_Wt8w1QIrc1PZukIbYeQK0Xxcu0lsA/?ext=png",
+        "tags": [
+            "multi-asset",
+            "bridgesplit-fraction",
+            "playground_dao"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/fjrFpbweAP",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/pool/E6oCGvmSYW7qhy7oeDfiNZLX6hEmPCVxBC8AknwAj82B"
+        }
+    }
+}
