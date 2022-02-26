@@ -5,6 +5,7 @@
       "symbol": "DGENMF",
       "name": "Degen MFer Floor Index",
       "decimals": 2,
+      "collection":"Degen MFers",
       "logoURI": "https://testlaunchmynft.mypinata.cloud/ipfs/QmRHkP5XEJphdcSkqEsE8qEWB2tVBsUYxyhKZakcbQLzhK/54.png",
       "tags": [
         "bridgesplit-fraction",
