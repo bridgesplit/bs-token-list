@@ -132,14 +132,14 @@
             "vault": "https://devnet.bridgesplit.com/vault/6Wu6BrCzXfYfeqHEhUvk8t6vS98bdoaZ2jfnA9Rf52qX"
         }
     },
-    "J4U59tzqR8S4sR2qu98zTzrYyAzTJsL1hKN68DwoADyw": {
+    "8HMrzing4Hfh3tuUf7BAvfBW5JiHvX1Ddq5ARVUT1cXC": {
         "chainId": 103,
-        "address": "J4U59tzqR8S4sR2qu98zTzrYyAzTJsL1hKN68DwoADyw",
-        "symbol": "1000",
-        "name": "Fractionalized CryptoPunk-1021",
-        "collection": "PUNK",
+        "address": "8HMrzing4Hfh3tuUf7BAvfBW5JiHvX1Ddq5ARVUT1cXC",
+        "symbol": "BAYC",
+        "name": "Fractionalized Bored Ape-1021",
+        "collection": "Bored Ape Yacht",
         "decimals": 2,
-        "logoURI": "https://i.imgur.com/dCqJri9.png",
+        "logoURI": "https://i.imgur.com/sKtKA7V.png",
         "tags": [
             "single-asset",
             "bridgesplit-fraction",
@@ -148,7 +148,7 @@
         "extensions": {
             "discord": "https://discord.gg/bridgesplit",
             "twitter": "https://twitter.com/bridgesplit",
-            "vault": "https://devnet.bridgesplit.com/vault/J4U59tzqR8S4sR2qu98zTzrYyAzTJsL1hKN68DwoADyw"
+            "vault": "https://devnet.bridgesplit.com/vault/8HMrzing4Hfh3tuUf7BAvfBW5JiHvX1Ddq5ARVUT1cXC"
         }
     }
 }
