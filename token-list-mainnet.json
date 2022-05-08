@@ -3875,9 +3875,9 @@
             "vault": "https://app.bridgesplit.com/fractions/HY9LZ7TsDABoMzYfZvBwrLEUVEAWE1kGF8XS1JvbMN9u"
         }
     },
-    "F4YT947ZnQeft1D1oCVoqBPDZ1tCcfYi6sYhDoUbMKB1": {
+    "663rbtf1FHhz1kQFAq41z63ViigQr8zAvZpNKJbZbF6C": {
         "chainId": 101,
-        "address": "F4YT947ZnQeft1D1oCVoqBPDZ1tCcfYi6sYhDoUbMKB1",
+        "address": "663rbtf1FHhz1kQFAq41z63ViigQr8zAvZpNKJbZbF6C",
         "symbol": "CTZN",
         "name": "Citizens Index",
         "decimals": 2,
@@ -3893,7 +3893,7 @@
         "extensions": {
             "discord": "https://discord.gg/bridgesplit",
             "twitter": "https://twitter.com/bridgesplit",
-            "vault": "https://app.bridgesplit.com/fractions/F4YT947ZnQeft1D1oCVoqBPDZ1tCcfYi6sYhDoUbMKB1"
+            "vault": "https://app.bridgesplit.com/fractions/663rbtf1FHhz1kQFAq41z63ViigQr8zAvZpNKJbZbF6C"
         }
     },
     "5hzLftaEyGTQJnoxhGxAvsLkmdjYsbx9YdjNwfNmtq2s": {
