@@ -3707,9 +3707,9 @@
             "vault": "https://app.bridgesplit.com/fractions/7jpqRdTrzHQB2qADggdDaUqaxMb3aiQboFpwpQn1bkLn"
         }
     },
-    "ABCs9pcAuEEPXYbETMYBvfGnX2sW7JLAkXPVThTK34qU": {
+    "5dgSRQ4oL8C942K4qPBuhjkbTNHtfqHMADhYE25PmhPG": {
         "chainId": 101,
-        "address": "ABCs9pcAuEEPXYbETMYBvfGnX2sW7JLAkXPVThTK34qU",
+        "address": "5dgSRQ4oL8C942K4qPBuhjkbTNHtfqHMADhYE25PmhPG",
         "symbol": "SHARKS",
         "name": "Rogue Sharks Floor Index",
         "decimals": 2,
@@ -3725,7 +3725,7 @@
         "extensions": {
             "discord": "https://discord.gg/bridgesplit",
             "twitter": "https://twitter.com/bridgesplit",
-            "vault": "https://app.bridgesplit.com/fractions/ABCs9pcAuEEPXYbETMYBvfGnX2sW7JLAkXPVThTK34qU"
+            "vault": "https://app.bridgesplit.com/fractions/5dgSRQ4oL8C942K4qPBuhjkbTNHtfqHMADhYE25PmhPG"
         }
     },
     "Egw6UvRKgMkUxARzyj2WjmEnd8Pa5f4KTMEUN2BmwnLn": {
