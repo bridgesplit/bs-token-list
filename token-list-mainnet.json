@@ -3853,5 +3853,26 @@
             "twitter": "https://twitter.com/bridgesplit",
             "vault": "https://app.bridgesplit.com/fractions/E5UNCyiF1xrCqKozyFuiBkYH678BhftBo8Q1GreukBq3"
         }
+    },
+    "HY9LZ7TsDABoMzYfZvBwrLEUVEAWE1kGF8XS1JvbMN9u": {
+        "chainId": 101,
+        "address": "HY9LZ7TsDABoMzYfZvBwrLEUVEAWE1kGF8XS1JvbMN9u",
+        "symbol": "CATS",
+        "name": "Wise Cats Index",
+        "decimals": 2,
+        "collection": "Wise Cats",
+        "logoURI": "https://cloudflare-ipfs.com/ipfs/bafkreih55niv5sh7gjeqdfvoehthuzewbtrxf367nbdbk5wgmgl5weamwm",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "wise-cats",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/HY9LZ7TsDABoMzYfZvBwrLEUVEAWE1kGF8XS1JvbMN9u"
+        }
     }
 }
