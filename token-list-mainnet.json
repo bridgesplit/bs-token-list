@@ -4252,5 +4252,26 @@
             "twitter": "https://twitter.com/bridgesplit",
             "vault": "https://app.bridgesplit.com/fractions/DzUbqmFeZNxYj112sFuYNVdQ18ezk1pAKEtrCSMtE4Fb"
         }
+    },
+    "8e2G3tCTvKAosq4BnYbDczboRVhy7xaXwbTSJeXEefJX": {
+        "chainId": 101,
+        "address": "8e2G3tCTvKAosq4BnYbDczboRVhy7xaXwbTSJeXEefJX",
+        "symbol": "JCATS",
+        "name": "Jungle Cats Floor Index",
+        "decimals": 2,
+        "collection": "Jungle Cats",
+        "logoURI": "https://i.imgur.com/AEPNTTQ.jpg",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "jungle-cats",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/8e2G3tCTvKAosq4BnYbDczboRVhy7xaXwbTSJeXEefJX"
+        }
     }
 }
