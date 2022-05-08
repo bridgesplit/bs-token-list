@@ -4315,5 +4315,26 @@
             "twitter": "https://twitter.com/bridgesplit",
             "vault": "https://app.bridgesplit.com/fractions/FTGE6XWXjfssNMNQ2ndT9LfZvspguvQWkd6wEnnrBXbR"
         }
+    },
+    "GvpkzEc4kiKS3xzNLFoc3k8HUVxYCAU8CYBkhAUKsSZ5": {
+        "chainId": 101,
+        "address": "GvpkzEc4kiKS3xzNLFoc3k8HUVxYCAU8CYBkhAUKsSZ5",
+        "symbol": "LAMAS",
+        "name": "Sollamas Floor Index",
+        "decimals": 2,
+        "collection": "Sollamas",
+        "logoURI": "https://dl.airtable.com/.attachmentThumbnails/12d27b39d0669181ee7bc21b6cced591/b4e0a300",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "sollamas",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/GvpkzEc4kiKS3xzNLFoc3k8HUVxYCAU8CYBkhAUKsSZ5"
+        }
     }
 }
