@@ -3874,5 +3874,89 @@
             "twitter": "https://twitter.com/bridgesplit",
             "vault": "https://app.bridgesplit.com/fractions/HY9LZ7TsDABoMzYfZvBwrLEUVEAWE1kGF8XS1JvbMN9u"
         }
+    },
+    "F4YT947ZnQeft1D1oCVoqBPDZ1tCcfYi6sYhDoUbMKB1": {
+        "chainId": 101,
+        "address": "F4YT947ZnQeft1D1oCVoqBPDZ1tCcfYi6sYhDoUbMKB1",
+        "symbol": "CTZN",
+        "name": "Citizens Index",
+        "decimals": 2,
+        "collection": "Citizens by Solsteads",
+        "logoURI": "https://dl.airtable.com/.attachmentThumbnails/17098df55330304080e6ec85174ce2be/9b0790be",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "citizens",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/F4YT947ZnQeft1D1oCVoqBPDZ1tCcfYi6sYhDoUbMKB1"
+        }
+    },
+    "5hzLftaEyGTQJnoxhGxAvsLkmdjYsbx9YdjNwfNmtq2s": {
+        "chainId": 101,
+        "address": "5hzLftaEyGTQJnoxhGxAvsLkmdjYsbx9YdjNwfNmtq2s",
+        "symbol": "PARTICLES",
+        "name": "Particles Index",
+        "decimals": 2,
+        "collection": "Particles",
+        "logoURI": "https://i.imgur.com/W8Lo4lY.png",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "particles",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/5hzLftaEyGTQJnoxhGxAvsLkmdjYsbx9YdjNwfNmtq2s"
+        }
+    },
+    "CT81fJ8ReVt3aNPqZr3xZvgJ7jjEfrzaXh3condAXHXP": {
+        "chainId": 101,
+        "address": "CT81fJ8ReVt3aNPqZr3xZvgJ7jjEfrzaXh3condAXHXP",
+        "symbol": "SOLPUNKS",
+        "name": "SolPunks Index",
+        "decimals": 2,
+        "collection": "SolPunks",
+        "logoURI": "https://i.imgur.com/17eC2nf.jpg",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "solpunks",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/CT81fJ8ReVt3aNPqZr3xZvgJ7jjEfrzaXh3condAXHXP"
+        }
+    },
+    "BVGiPUve3dtMLNw2iv3tA7NN8Jv198Ha9FmPXKMUDkjF": {
+        "chainId": 101,
+        "address": "BVGiPUve3dtMLNw2iv3tA7NN8Jv198Ha9FmPXKMUDkjF",
+        "symbol": "SKULLYS",
+        "name": "Disarticulated Skullys Index",
+        "decimals": 2,
+        "collection": "Disarticulated Skullys",
+        "logoURI": "https://i.imgur.com/17eC2nf.jpg",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "skullyz",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/BVGiPUve3dtMLNw2iv3tA7NN8Jv198Ha9FmPXKMUDkjF"
+        }
     }
 }
