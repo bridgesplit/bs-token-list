@@ -4295,9 +4295,9 @@
             "vault": "https://app.bridgesplit.com/fractions/GpScy7hnuSHPWQmQR6HFGjEqFwzTH6J4kL4TRQZovHF"
         }
     },
-    "FTGE6XWXjfssNMNQ2ndT9LfZvspguvQWkd6wEnnrBXbR": {
+    "E4oEnayacCpyKLQQeRqSm8bG5wPqDMZuun6fEXgoLNwF": {
         "chainId": 101,
-        "address": "FTGE6XWXjfssNMNQ2ndT9LfZvspguvQWkd6wEnnrBXbR",
+        "address": "E4oEnayacCpyKLQQeRqSm8bG5wPqDMZuun6fEXgoLNwF",
         "symbol": "ORCSFI",
         "name": "The Orcs Floor Index",
         "decimals": 2,
@@ -4313,7 +4313,7 @@
         "extensions": {
             "discord": "https://discord.gg/bridgesplit",
             "twitter": "https://twitter.com/bridgesplit",
-            "vault": "https://app.bridgesplit.com/fractions/FTGE6XWXjfssNMNQ2ndT9LfZvspguvQWkd6wEnnrBXbR"
+            "vault": "https://app.bridgesplit.com/fractions/E4oEnayacCpyKLQQeRqSm8bG5wPqDMZuun6fEXgoLNwF"
         }
     },
     "GvpkzEc4kiKS3xzNLFoc3k8HUVxYCAU8CYBkhAUKsSZ5": {
