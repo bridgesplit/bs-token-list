@@ -4273,5 +4273,47 @@
             "twitter": "https://twitter.com/bridgesplit",
             "vault": "https://app.bridgesplit.com/fractions/8e2G3tCTvKAosq4BnYbDczboRVhy7xaXwbTSJeXEefJX"
         }
+    },
+    "GpScy7hnuSHPWQmQR6HFGjEqFwzTH6J4kL4TRQZovHF": {
+        "chainId": 101,
+        "address": "GpScy7hnuSHPWQmQR6HFGjEqFwzTH6J4kL4TRQZovHF",
+        "symbol": "GEMMY",
+        "name": "Gemmy Floor Index",
+        "decimals": 2,
+        "collection": "Gemmy",
+        "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/gemmy_pfp_1651420536407.png",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "gemmy",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/GpScy7hnuSHPWQmQR6HFGjEqFwzTH6J4kL4TRQZovHF"
+        }
+    },
+    "FTGE6XWXjfssNMNQ2ndT9LfZvspguvQWkd6wEnnrBXbR": {
+        "chainId": 101,
+        "address": "FTGE6XWXjfssNMNQ2ndT9LfZvspguvQWkd6wEnnrBXbR",
+        "symbol": "ORCSFI",
+        "name": "The Orcs Floor Index",
+        "decimals": 2,
+        "collection": "The Orcs",
+        "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/theorcs_pfp_1650812101467.png",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "orcs",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/FTGE6XWXjfssNMNQ2ndT9LfZvspguvQWkd6wEnnrBXbR"
+        }
     }
 }
