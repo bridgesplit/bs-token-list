@@ -3407,7 +3407,7 @@
         "symbol": "MMCC",
         "name": "Meerkats Floor Index",
         "decimals": 2,
-        "collection": "Serum Surfers",
+        "collection": "Meerkat Millionaires Country Club",
         "logoURI": "https://dl.airtable.com/.attachmentThumbnails/da62eb10c452a9b2a9b768d4aedd13b5/676b0660",
         "tags": [
             "fraction-index",
@@ -3852,27 +3852,6 @@
             "discord": "https://discord.gg/bridgesplit",
             "twitter": "https://twitter.com/bridgesplit",
             "vault": "https://app.bridgesplit.com/fractions/E5UNCyiF1xrCqKozyFuiBkYH678BhftBo8Q1GreukBq3"
-        }
-    },
-    "3MkJycarius9FkEzzMDCXdtVfGndv19uXW4z1qNth7nW": {
-        "chainId": 101,
-        "address": "3MkJycarius9FkEzzMDCXdtVfGndv19uXW4z1qNth7nW",
-        "symbol": "WHALES",
-        "name": "Catalina Whale Mixer Floor Index",
-        "decimals": 2,
-        "collection": "Catalina Whale Mixer",
-        "logoURI": "https://cloudflare-ipfs.com/ipfs/bafkreicadecx3rbffm6tqtgtc67bi6r2xiibtmawcejje7pfu7id2zxwwy",
-        "tags": [
-            "fraction-index",
-            "bridgesplit-fraction",
-            "catalina-whales",
-            "fnft",
-            "degen"
-        ],
-        "extensions": {
-            "discord": "https://discord.gg/bridgesplit",
-            "twitter": "https://twitter.com/bridgesplit",
-            "vault": "https://app.bridgesplit.com/fractions/3MkJycarius9FkEzzMDCXdtVfGndv19uXW4z1qNth7nW"
         }
     }
 }
