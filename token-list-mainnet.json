@@ -1035,7 +1035,7 @@
             "bridgesplit-fraction",
             "fab-punks",
             "fnft",
-            "degen"
+            "staging"
         ],
         "extensions": {
             "discord": "https://discord.gg/bridgesplit",
@@ -4335,6 +4335,106 @@
             "discord": "https://discord.gg/bridgesplit",
             "twitter": "https://twitter.com/bridgesplit",
             "vault": "https://app.bridgesplit.com/fractions/GvpkzEc4kiKS3xzNLFoc3k8HUVxYCAU8CYBkhAUKsSZ5"
+        }
+    },
+    "3425coaUDipvrJb1RyBGhma4xAuCQn5sRoBUyiPytJrR": {
+        "chainId": 101,
+        "address": "3425coaUDipvrJb1RyBGhma4xAuCQn5sRoBUyiPytJrR",
+        "symbol": "fDYOR-3425",
+        "name": "Fractionalized NERD -3655",
+        "collection": "DYOR NERDS",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/RRJKEl77nGAuf0QTq6Pm1EeaaWobN_uOEU2yXFwvh2c?ext=png",
+        "tags": [
+            "single-asset",
+            "bridgesplit-fraction",
+            "fnft",
+            "main"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://a1a1-98-0-203-218.ngrok.io/vault/3425coaUDipvrJb1RyBGhma4xAuCQn5sRoBUyiPytJrR"
+        }
+    },
+    "7c5Y6uSUKbH9At1kfWJMUYSNNtc1HFpjn4T528cEz7qr": {
+        "chainId": 101,
+        "address": "7c5Y6uSUKbH9At1kfWJMUYSNNtc1HFpjn4T528cEz7qr",
+        "symbol": "fLIFINITY-7c5Y",
+        "name": "Fractionalized LIFINITY Flares -3878",
+        "collection": "LIFINITY Flares",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/VkkPgqjP2djrIVkvjwZvQ7Z53eOIkG6Plg2CioHY2K8?ext=webp",
+        "tags": [
+            "single-asset",
+            "bridgesplit-fraction",
+            "fnft",
+            "main"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://a1a1-98-0-203-218.ngrok.io/vault/7c5Y6uSUKbH9At1kfWJMUYSNNtc1HFpjn4T528cEz7qr"
+        }
+    },
+    "4ndQJx14FMn1gEKbTDyTn696BuoQSGbQCxQN4dq3XLnc": {
+        "chainId": 101,
+        "address": "4ndQJx14FMn1gEKbTDyTn696BuoQSGbQCxQN4dq3XLnc",
+        "symbol": "fSSURF-4ndQ",
+        "name": "Fractionalized Serum Surfers -4219",
+        "collection": "SSURF\u0000\u0000\u0000\u0000\u0000",
+        "decimals": 2,
+        "logoURI": "https://bafkreicfxpwtbc5hn4beeqw6tvt7lgqmfby5pfptiri3xobqoyayc6hywa.ipfs.nftstorage.link?ext=png",
+        "tags": [
+            "single-asset",
+            "bridgesplit-fraction",
+            "fnft",
+            "main"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://a1a1-98-0-203-218.ngrok.io/vault/4ndQJx14FMn1gEKbTDyTn696BuoQSGbQCxQN4dq3XLnc"
+        }
+    },
+    "98Y8DGUUHYFZ16b6WAQGSrReEqkUQPoUEhfxQ4ZRV4uA": {
+        "chainId": 101,
+        "address": "98Y8DGUUHYFZ16b6WAQGSrReEqkUQPoUEhfxQ4ZRV4uA",
+        "symbol": "fSSURF-98Y8",
+        "name": "Fractionalized Serum Surfers -1469",
+        "collection": "SSURF\u0000\u0000\u0000\u0000\u0000",
+        "decimals": 2,
+        "logoURI": "https://bafkreig5fu6lhasem3hmmxuvew2jj3qmwen6in7ct5xyqvxk5eknay2q2i.ipfs.nftstorage.link?ext=png",
+        "tags": [
+            "single-asset",
+            "bridgesplit-fraction",
+            "fnft",
+            "main"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://a1a1-98-0-203-218.ngrok.io/vault/98Y8DGUUHYFZ16b6WAQGSrReEqkUQPoUEhfxQ4ZRV4uA"
+        }
+    },
+    "MJobD2HnUz9dpzNgxPjQS46GX6LXtNprkSf7SvM6zTg": {
+        "chainId": 101,
+        "address": "MJobD2HnUz9dpzNgxPjQS46GX6LXtNprkSf7SvM6zTg",
+        "symbol": "fMeerkat-MJob",
+        "name": "Fractionalized Meerkat -2873",
+        "collection": "Meerkat Millionaires Country Club",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/kgIeaGee_WBBckk41IrsiVAbCSeq0QWfE6NPb0lhb-k?ext=png",
+        "tags": [
+            "single-asset",
+            "bridgesplit-fraction",
+            "fnft",
+            "main"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://a1a1-98-0-203-218.ngrok.io/vault/MJobD2HnUz9dpzNgxPjQS46GX6LXtNprkSf7SvM6zTg"
         }
     }
 }
