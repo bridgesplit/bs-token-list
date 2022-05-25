@@ -3771,6 +3771,686 @@
             "vault": "https://app.bridgesplit.com/vault/GYkyXpDGHShbmhRZ8mjGCHHx8KchbVAPrVopKFm66Zkg"
         }
     },
+    "CoDKEbPvDcVYQ4uvH9k7YhUJutyYC2E3H4ZS2hxfkQV6": {
+        "chainId": 101,
+        "address": "CoDKEbPvDcVYQ4uvH9k7YhUJutyYC2E3H4ZS2hxfkQV6",
+        "symbol": "fBTBRDZ-CoDK",
+        "name": "Fractionalized Bit Birdz -3233",
+        "collection": "Gen 3",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/wgtE19LTw0VfodWxkHVJafHh0UGeSW24SOCKgk6x1BA?ext=gif",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/CoDKEbPvDcVYQ4uvH9k7YhUJutyYC2E3H4ZS2hxfkQV6"
+        }
+    },
+    "GRsoqmhsS7fCLpEqqE7oRM92ag3WVy8VbJAi6KfWSeHS": {
+        "chainId": 101,
+        "address": "GRsoqmhsS7fCLpEqqE7oRM92ag3WVy8VbJAi6KfWSeHS",
+        "symbol": "BBI",
+        "name": "Bridgesplit Brand Index",
+        "collection": "Unstoppable Domains",
+        "decimals": 2,
+        "logoURI": "https://i.imgur.com/lbvoBFh.png",
+        "tags": [
+            "unstoppable-domains",
+            "domains",
+            "bridgesplit-fraction",
+            "curated-index"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/curated-index/GRsoqmhsS7fCLpEqqE7oRM92ag3WVy8VbJAi6KfWSeHS"
+        }
+    },
+    "9wvaNvRrMDgDH21KwzuAnqN8wuF1Uqk7jZ882d562nD7": {
+        "chainId": 101,
+        "address": "9wvaNvRrMDgDH21KwzuAnqN8wuF1Uqk7jZ882d562nD7",
+        "symbol": "fSSURF-9wva",
+        "name": "Fractionalized Serum Surfers -2758",
+        "collection": "SSURF\u0000\u0000\u0000\u0000\u0000",
+        "decimals": 2,
+        "logoURI": "https://bafkreig7oqj3paztvhs7mii7zcfce7cbykdf2fgeqw4i5yvtdipvfu5ft4.ipfs.nftstorage.link?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/9wvaNvRrMDgDH21KwzuAnqN8wuF1Uqk7jZ882d562nD7"
+        }
+    },
+    "EK6j5Shv99xttoT3F2DfG8uQMoX6NoAZgTuYwCvrHzqo": {
+        "chainId": 101,
+        "address": "EK6j5Shv99xttoT3F2DfG8uQMoX6NoAZgTuYwCvrHzqo",
+        "symbol": "LIONESS",
+        "name": "Jungle Cats Lioness Index",
+        "decimals": 2,
+        "collection": "Jungle Cats Lioness",
+        "logoURI": "https://dl.airtable.com/.attachments/5befbef5bb59eb122426dac8db5a0b2f/2327b76a/QueenLion.jpg",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "jungle-cats-lioness",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/EK6j5Shv99xttoT3F2DfG8uQMoX6NoAZgTuYwCvrHzqo"
+        }
+    },
+    "BLyV6szCZ7Ypye8AHXyHDmjC4uC73sGvEJoMwoVQw3Te": {
+        "chainId": 101,
+        "address": "BLyV6szCZ7Ypye8AHXyHDmjC4uC73sGvEJoMwoVQw3Te",
+        "symbol": "TFOXES",
+        "name": "Transdimensional Fox Federation Floor Index",
+        "decimals": 2,
+        "collection": "Transdimensional Fox Federation",
+        "logoURI": "https://cloudflare-ipfs.com/ipfs/bafkreiaw7wgcu3o7xwmm3mbmm65pco5nti7etquvp7xlo6atgbksirb2va",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "tfoxes",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/BLyV6szCZ7Ypye8AHXyHDmjC4uC73sGvEJoMwoVQw3Te"
+        }
+    },
+    "7GKfpoxXxJDWYMTXSTy9uqZsKsBKZpmqi3HvbMkFc6fP": {
+        "chainId": 101,
+        "address": "7GKfpoxXxJDWYMTXSTy9uqZsKsBKZpmqi3HvbMkFc6fP",
+        "symbol": "fJCATSL-7GKf",
+        "name": "Fractionalized Lioness -3578",
+        "collection": "Lionesses",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/ZQSLoASFN6Sw7RP7bJc3RuQNZE4Nkx5Fx3HiZSOrGWc?ext=jpeg",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/7GKfpoxXxJDWYMTXSTy9uqZsKsBKZpmqi3HvbMkFc6fP"
+        }
+    },
+    "2TFpcbJu9yiX6qr4Vu6mHJtiZ8NAtRftyDded99b9y13": {
+        "chainId": 101,
+        "address": "2TFpcbJu9yiX6qr4Vu6mHJtiZ8NAtRftyDded99b9y13",
+        "symbol": "fTFF-2TFp",
+        "name": "Fractionalized Fox -2566",
+        "collection": "Transdimensional Fox Federation",
+        "decimals": 2,
+        "logoURI": "https://ipfs.io/ipfs/QmcD3W32Gwo2VaQzN69yHAEszTAfSbkjNHb49qtrPCpmKw",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/2TFpcbJu9yiX6qr4Vu6mHJtiZ8NAtRftyDded99b9y13"
+        }
+    },
+    "5xo3ioUm9iHqczfZfFsRYEQfn9kQBuPx6wWF6qXVZncp": {
+        "chainId": 101,
+        "address": "5xo3ioUm9iHqczfZfFsRYEQfn9kQBuPx6wWF6qXVZncp",
+        "symbol": "fJCATSL-5xo3",
+        "name": "Fractionalized Lioness -1683",
+        "collection": "Lionesses",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/XRaZPLzfxIN-A3tNQGMg6vppBHKvb9o1C5MAa25VjfY?ext=jpeg",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/5xo3ioUm9iHqczfZfFsRYEQfn9kQBuPx6wWF6qXVZncp"
+        }
+    },
+    "AmVH4J7nt8AiXAB7VyZHhk1rD9fNUwy9CS6afBcigFDV": {
+        "chainId": 101,
+        "address": "AmVH4J7nt8AiXAB7VyZHhk1rD9fNUwy9CS6afBcigFDV",
+        "symbol": "fJCATSL-AmVH",
+        "name": "Fractionalized Lioness -0458",
+        "collection": "Lionesses",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/ONFbsb6lI1b6cJhDPQJYbKO50FTd1As7z0fj33adVrg?ext=jpeg",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/AmVH4J7nt8AiXAB7VyZHhk1rD9fNUwy9CS6afBcigFDV"
+        }
+    },
+    "4br3Kb4bt2BCe2FkqMuD9koqGRn7AKDwf8RrpJw6gqht": {
+        "chainId": 101,
+        "address": "4br3Kb4bt2BCe2FkqMuD9koqGRn7AKDwf8RrpJw6gqht",
+        "symbol": "fJCATSL-4br3",
+        "name": "Fractionalized Lioness -0813",
+        "collection": "Lionesses",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/hVz9RzIaMG0ac0tLduozR61c8bQAFL_CpZQaPfe-uW0?ext=jpeg",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/4br3Kb4bt2BCe2FkqMuD9koqGRn7AKDwf8RrpJw6gqht"
+        }
+    },
+    "HDJHouikiDU6UrNVBxHJ8P1LPdcqXNgcKUwFWMk1VTyW": {
+        "chainId": 101,
+        "address": "HDJHouikiDU6UrNVBxHJ8P1LPdcqXNgcKUwFWMk1VTyW",
+        "symbol": "fJCATSL-HDJH",
+        "name": "Fractionalized Lioness -2178",
+        "collection": "Lionesses",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/EMKxgoCh40Rx4w2qYpgI0GCCruuDCzkQm2D_SQtvSTY?ext=jpeg",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/HDJHouikiDU6UrNVBxHJ8P1LPdcqXNgcKUwFWMk1VTyW"
+        }
+    },
+    "E5MfzgLK7hEFwhMobb4pM25S3X2nBaNBCyjnRKHEqs9m": {
+        "chainId": 101,
+        "address": "E5MfzgLK7hEFwhMobb4pM25S3X2nBaNBCyjnRKHEqs9m",
+        "symbol": "fJCATS-E5Mf",
+        "name": "Fractionalized JungleCats -2657",
+        "collection": "Lions",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/QA8oBzRxkFQhy9Lo5FEMkJccvQQSMN5tSy3AXyMELnI?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/E5MfzgLK7hEFwhMobb4pM25S3X2nBaNBCyjnRKHEqs9m"
+        }
+    },
+    "85UQrX4WK3P18a2KaCWkofy8a9HgNBx284hevW8dZSUC": {
+        "chainId": 101,
+        "address": "85UQrX4WK3P18a2KaCWkofy8a9HgNBx284hevW8dZSUC",
+        "symbol": "fJCATSL-85UQ",
+        "name": "Fractionalized Lioness -0594",
+        "collection": "Lionesses",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/nA9EXUiMmpnSQW24dtYms9tpRSGiYG2kBiEYPe0Z5sI?ext=jpeg",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/85UQrX4WK3P18a2KaCWkofy8a9HgNBx284hevW8dZSUC"
+        }
+    },
+    "5Lkr8X9EBsnNks49aodJPn3C4CdrBmpRgvkSkKFip826": {
+        "chainId": 101,
+        "address": "5Lkr8X9EBsnNks49aodJPn3C4CdrBmpRgvkSkKFip826",
+        "symbol": "fJCATS-5Lkr",
+        "name": "Fractionalized JungleCats -0135",
+        "collection": "Lions",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/bRX86W5bfX_bWqwNxgz1BRtkPUL8vrIJyx7C9b3a0B0?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/5Lkr8X9EBsnNks49aodJPn3C4CdrBmpRgvkSkKFip826"
+        }
+    },
+    "F3DVUR6Vk7yUE8QEfUy37ry7cnjEAWpNPFTHhRQ7U8Si": {
+        "chainId": 101,
+        "address": "F3DVUR6Vk7yUE8QEfUy37ry7cnjEAWpNPFTHhRQ7U8Si",
+        "symbol": "fBORYOKU-F3DV",
+        "name": "Fractionalized Boryoku Dragonz -47",
+        "collection": "Genesis",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/Ibp5TFcxG7h5ppyklu0CUKcGxRf5ig6MYBnh6u7x2H4?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/F3DVUR6Vk7yUE8QEfUy37ry7cnjEAWpNPFTHhRQ7U8Si"
+        }
+    },
+    "9SEyfyNdJigNvVfMLzP1pkppQ2skuzR58fYru5yvFyDQ": {
+        "chainId": 101,
+        "address": "9SEyfyNdJigNvVfMLzP1pkppQ2skuzR58fYru5yvFyDQ",
+        "symbol": "fPR-9SEy",
+        "name": "Fractionalized Particle -1883",
+        "collection": "Particles",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/HE_VIBrV3izIz5h9kMZiOVswR4OfZJ3vL--P9xSywTs",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/9SEyfyNdJigNvVfMLzP1pkppQ2skuzR58fYru5yvFyDQ"
+        }
+    },
+    "58gud5ERJASsmrph4cSokrNptcmqa7k22Qfrn8ngHCBJ": {
+        "chainId": 101,
+        "address": "58gud5ERJASsmrph4cSokrNptcmqa7k22Qfrn8ngHCBJ",
+        "symbol": "fFABP-58gu",
+        "name": "Fractionalized FAB PUNK -1176",
+        "collection": "FAB PUNK #1176",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/0xjE4pHb_2abD0sOmZ3Css8wNgXhT-BcFQwpsVuhpVk?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/58gud5ERJASsmrph4cSokrNptcmqa7k22Qfrn8ngHCBJ"
+        }
+    },
+    "8LGyVriU7x92nm4qg4aR8Bd8Lzw3Ld4b4nvjaHjMguUi": {
+        "chainId": 101,
+        "address": "8LGyVriU7x92nm4qg4aR8Bd8Lzw3Ld4b4nvjaHjMguUi",
+        "symbol": "fNFTREES-8LGy",
+        "name": "Fractionalized NFTree -7373",
+        "collection": "NFTREES",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/xyzLSV1ndpTeylgr2zKKa5dp8s46IETelyESYC8DGCc?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/8LGyVriU7x92nm4qg4aR8Bd8Lzw3Ld4b4nvjaHjMguUi"
+        }
+    },
+    "G5hGSmTXneafeqBne7SiJ9VqLtLL5JPZxKUptZjLGNZF": {
+        "chainId": 101,
+        "address": "G5hGSmTXneafeqBne7SiJ9VqLtLL5JPZxKUptZjLGNZF",
+        "symbol": "fKULL-G5hG",
+        "name": "Fractionalized dskullys -1211",
+        "collection": "dskullys",
+        "decimals": 2,
+        "logoURI": "https://cloudflare-ipfs.com/ipfs/bafybeicesxkhl6wbrqbgjzjximd5k4temynl3sdkiminlcqo437uv4e7ia/1210.png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/G5hGSmTXneafeqBne7SiJ9VqLtLL5JPZxKUptZjLGNZF"
+        }
+    },
+    "6sP28N2DWYnjTYyWAWrj5Zt7UUKUzq8H5D8A5iQNpu9H": {
+        "chainId": 101,
+        "address": "6sP28N2DWYnjTYyWAWrj5Zt7UUKUzq8H5D8A5iQNpu9H",
+        "symbol": "fPPZ-6sP2",
+        "name": "Fractionalized Pompeizz™ -1471",
+        "collection": "PPZ\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "decimals": 2,
+        "logoURI": "https://bafybeibvfbu47nal4bosdu6euw7vrlkcheivinjknh5vye7bheawvtmg24.ipfs.nftstorage.link/1470.jpg?ext=jpg",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/6sP28N2DWYnjTYyWAWrj5Zt7UUKUzq8H5D8A5iQNpu9H"
+        }
+    },
+    "Hvxi6P9zTrp6YdvGmSt4g2tKZtcMHcut4ULfxDQ4BMKn": {
+        "chainId": 101,
+        "address": "Hvxi6P9zTrp6YdvGmSt4g2tKZtcMHcut4ULfxDQ4BMKn",
+        "symbol": "fFABP-Hvxi",
+        "name": "Fractionalized FAB PUNK -4592",
+        "collection": "FAB PUNK #4592",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/INzAiIzTlKbHIG-s1Aap0awsDMxT8pkkk77G8nincJc?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/Hvxi6P9zTrp6YdvGmSt4g2tKZtcMHcut4ULfxDQ4BMKn"
+        }
+    },
+    "7kmKfWFQRM8Y3kM6tWtBzGnHQz1sSBeevc7y9WbHHz53": {
+        "chainId": 101,
+        "address": "7kmKfWFQRM8Y3kM6tWtBzGnHQz1sSBeevc7y9WbHHz53",
+        "symbol": "fFABP-7kmK",
+        "name": "Fractionalized FAB PUNK -3388",
+        "collection": "FAB PUNK #3388",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/gjNfkZhYfDJd46egAXEWOj5bCindekWnCAL43uxMneI?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/7kmKfWFQRM8Y3kM6tWtBzGnHQz1sSBeevc7y9WbHHz53"
+        }
+    },
+    "4XDrY5gPgNLTmg2mWrmP5PW4nGSyPQBiB3GmVQxhmgev": {
+        "chainId": 101,
+        "address": "4XDrY5gPgNLTmg2mWrmP5PW4nGSyPQBiB3GmVQxhmgev",
+        "symbol": "fPRTL-4XDr",
+        "name": "Fractionalized Portals | Ivory -2516",
+        "collection": "Portals",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/YVjYUAPqqQR1CuBJQh45gfyDf4O4v2IpP_JWquW4hTE?ext=mp4",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/4XDrY5gPgNLTmg2mWrmP5PW4nGSyPQBiB3GmVQxhmgev"
+        }
+    },
+    "3hcj6u5Hd3VRQH8UBTeJ6muFUiJqSjuSWRqFCZidVPVY": {
+        "chainId": 101,
+        "address": "3hcj6u5Hd3VRQH8UBTeJ6muFUiJqSjuSWRqFCZidVPVY",
+        "symbol": "fPRTL-3hcj",
+        "name": "Fractionalized Portals | Ivory -4578",
+        "collection": "Portals",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/YVjYUAPqqQR1CuBJQh45gfyDf4O4v2IpP_JWquW4hTE?ext=mp4",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/3hcj6u5Hd3VRQH8UBTeJ6muFUiJqSjuSWRqFCZidVPVY"
+        }
+    },
+    "D7aW7o6KCiLVUypeFvHYhrQJeDv76BK272UfakbUnD4u": {
+        "chainId": 101,
+        "address": "D7aW7o6KCiLVUypeFvHYhrQJeDv76BK272UfakbUnD4u",
+        "symbol": "fSAC-D7aW",
+        "name": "Fractionalized Stoned Ape -2520",
+        "collection": "Stoned Apes",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/LGKu9iO8EX5spp43zo2MHLH67I7ZvKQSa1Ln9QqEAeg?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/D7aW7o6KCiLVUypeFvHYhrQJeDv76BK272UfakbUnD4u"
+        }
+    },
+    "ETVLVXYY2baqKkJefuLN4n9oVyBwJ8RjcQ4Xf2Nwga8J": {
+        "chainId": 101,
+        "address": "ETVLVXYY2baqKkJefuLN4n9oVyBwJ8RjcQ4Xf2Nwga8J",
+        "symbol": "fBORYOKU-ETVL",
+        "name": "Fractionalized Boryoku Dragonz -837",
+        "collection": "Genesis",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/hqn4C2NvcDiShjQmkY5aixYqP9F_AhdiUC7ncrGoB5s?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/ETVLVXYY2baqKkJefuLN4n9oVyBwJ8RjcQ4Xf2Nwga8J"
+        }
+    },
+    "uL2qhMckUAroJPt2MLHwEeppJNYE3wBAGFMCs3anwXn": {
+        "chainId": 101,
+        "address": "uL2qhMckUAroJPt2MLHwEeppJNYE3wBAGFMCs3anwXn",
+        "symbol": "DRIPP",
+        "name": "Drippies Floor Index",
+        "decimals": 2,
+        "collection": "Drippies",
+        "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/drippies_pfp_1648415706808.gif",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "drippies",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/uL2qhMckUAroJPt2MLHwEeppJNYE3wBAGFMCs3anwXn"
+        }
+    },
+    "FGWXYAy1QkagTqE2KiJE8gkeaKDvhNsoBjcKdrMV41Tk": {
+        "chainId": 101,
+        "address": "FGWXYAy1QkagTqE2KiJE8gkeaKDvhNsoBjcKdrMV41Tk",
+        "symbol": "fDU-FGWX",
+        "name": "Fractionalized Drakonaut -577",
+        "collection": "Drakos Unchained on Solana - The Expansion",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/fLC_EByagz0ca1mehGKQzlxR3Lu1vokxgmC1hkjU-Uk?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/FGWXYAy1QkagTqE2KiJE8gkeaKDvhNsoBjcKdrMV41Tk"
+        }
+    },
+    "9j7pLeELCPTnXYXcHSiGSuYr1UE7cTaAd16kiH2AiNs5": {
+        "chainId": 101,
+        "address": "9j7pLeELCPTnXYXcHSiGSuYr1UE7cTaAd16kiH2AiNs5",
+        "symbol": "DRAKOSE",
+        "name": "Drakos Unchained Expansion Floor Index",
+        "decimals": 2,
+        "collection": "Drakos Unchained - The Expansion",
+        "logoURI": "https://dl.airtable.com/.attachments/28e237c4f048b44953ce81d43ea0c1cb/1f0a0154/ME-PFP.gif",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "drakos-expansion",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/9j7pLeELCPTnXYXcHSiGSuYr1UE7cTaAd16kiH2AiNs5"
+        }
+    },
+    "GtprMTWM7d5GCfmZSfTCyfJoMcHtNV2Qdt3rD89rKZDn": {
+        "chainId": 101,
+        "address": "GtprMTWM7d5GCfmZSfTCyfJoMcHtNV2Qdt3rD89rKZDn",
+        "symbol": "fDU-Gtpr",
+        "name": "Fractionalized Drakonaut -1749",
+        "collection": "Drakos Unchained on Solana - The Expansion",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/xQwncgPyRfo9JDsNDYZUJEfymAgaD3bVASC_WeIJYVw?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/GtprMTWM7d5GCfmZSfTCyfJoMcHtNV2Qdt3rD89rKZDn"
+        }
+    },
+    "EALeJky5GtfS45UV9d8mvw2bu6wvzx1Tta2NPojxLHpF": {
+        "chainId": 101,
+        "address": "EALeJky5GtfS45UV9d8mvw2bu6wvzx1Tta2NPojxLHpF",
+        "symbol": "fDU-EALe",
+        "name": "Fractionalized Drakonaut -3355",
+        "collection": "Drakos Unchained on Solana - The Expansion",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/sBBIw49CqV8XeXj0BPsoPMEnF9l76rejTaTaoqdK3kE?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/EALeJky5GtfS45UV9d8mvw2bu6wvzx1Tta2NPojxLHpF"
+        }
+    },
+    "5iUW2aLFsSD5oRkmxpRfKFffvKvTeFmEruABLYyY2MRX": {
+        "chainId": 101,
+        "address": "5iUW2aLFsSD5oRkmxpRfKFffvKvTeFmEruABLYyY2MRX",
+        "symbol": "HELIX",
+        "name": "MetaHelix Floor Index",
+        "decimals": 2,
+        "collection": "MetaHelix",
+        "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/metahelix_pfp_1647817083595.png",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "metahelix",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/5iUW2aLFsSD5oRkmxpRfKFffvKvTeFmEruABLYyY2MRX"
+        }
+    },
+    "5oAdQHckNqSSoREqzXbkVQLS4Dcky9cPpzoBw2JusCLk": {
+        "chainId": 101,
+        "address": "5oAdQHckNqSSoREqzXbkVQLS4Dcky9cPpzoBw2JusCLk",
+        "symbol": "fDU-5oAd",
+        "name": "Fractionalized Drakonaut -2378",
+        "collection": "Drakos Unchained on Solana - The Expansion",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/gBY_5Fz6y4HgD3hadBv_LSQaByoJqAs4yi-D27JQaTE?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/5oAdQHckNqSSoREqzXbkVQLS4Dcky9cPpzoBw2JusCLk"
+        }
+    },
+    "BJmnxbVUmYACEihxZ4S7MdiNxs5j4iJk9FywSzijRdPf": {
+        "chainId": 101,
+        "address": "BJmnxbVUmYACEihxZ4S7MdiNxs5j4iJk9FywSzijRdPf",
+        "symbol": "fDU-BJmn",
+        "name": "Fractionalized Drakonaut -1795",
+        "collection": "Drakos Unchained on Solana - The Expansion",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/gi0EofwrxwIBLxASBIzm3KHrYF9aapbHwsYWztOv9C0?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/BJmnxbVUmYACEihxZ4S7MdiNxs5j4iJk9FywSzijRdPf"
+        }
+    },
+    "DZVK1gkQFV3HGKm28KMTbMvuFzPv55cqeaGZ37cRsUy": {
+        "chainId": 101,
+        "address": "DZVK1gkQFV3HGKm28KMTbMvuFzPv55cqeaGZ37cRsUy",
+        "symbol": "fDU-DZVK",
+        "name": "Fractionalized Drakonaut -2742",
+        "collection": "Drakos Unchained on Solana - The Expansion",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/Qo1NtbzltALguZ6TlOOLYcKaJJBuWBHKE6-DaHkXSxM?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/DZVK1gkQFV3HGKm28KMTbMvuFzPv55cqeaGZ37cRsUy"
+        }
+    },
+    "FQKhxx6prVFBCzKbWkkqbYvTxU7YvdWbxiN1sUzk89KW": {
+        "chainId": 101,
+        "address": "FQKhxx6prVFBCzKbWkkqbYvTxU7YvdWbxiN1sUzk89KW",
+        "symbol": "fDU-FQKh",
+        "name": "Fractionalized Drakonaut -1053",
+        "collection": "Drakos Unchained on Solana - The Expansion",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/Yd_qWk7YBtAlrFBrnSLw_2Y_ubiv3CTh8riABGF-A10?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/FQKhxx6prVFBCzKbWkkqbYvTxU7YvdWbxiN1sUzk89KW"
+        }
+    },
+    "9ZqKDzLK23RkoTyZoxA17eKSh2ffWcffdZptEpK5hxE2": {
+        "chainId": 101,
+        "address": "9ZqKDzLK23RkoTyZoxA17eKSh2ffWcffdZptEpK5hxE2",
+        "symbol": "fWiseCats-9ZqK",
+        "name": "Fractionalized Wise Cats 704",
+        "collection": "Wise Cats",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/1Mown_O52WV35Rk00vMv2Ud4Z7BHCYfKQTzSADBx8EU",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/9ZqKDzLK23RkoTyZoxA17eKSh2ffWcffdZptEpK5hxE2"
+        }
+    },
+    "HkCoNArY911kr5BHgfoK8D4fjyKwVjY9xEKPhiWADUA1": {
+        "chainId": 101,
+        "address": "HkCoNArY911kr5BHgfoK8D4fjyKwVjY9xEKPhiWADUA1",
+        "symbol": "fDU-HkCo",
+        "name": "Fractionalized Drakonaut -2130",
+        "collection": "Drakos Unchained on Solana - The Expansion",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/hAxvr9XiYjbvR9_m2k3PD70oguqNfkzMoaXzZQVnNCE?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/HkCoNArY911kr5BHgfoK8D4fjyKwVjY9xEKPhiWADUA1"
+        }
+    },
+    "BeBXWXrCoKw8kfpo1541uguHsWvy6DmAyVa17h1625VD": {
+        "chainId": 101,
+        "address": "BeBXWXrCoKw8kfpo1541uguHsWvy6DmAyVa17h1625VD",
+        "symbol": "fDU-BeBX",
+        "name": "Fractionalized Drakonaut -1094",
+        "collection": "Drakos Unchained on Solana - The Expansion",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/SzPcWhlYmDGcTcarGfgyQExhERRgWVd8jaFCoeR8RDg?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/BeBXWXrCoKw8kfpo1541uguHsWvy6DmAyVa17h1625VD"
+        }
+    },
+    "AFNQHDrHdyJ8qebiSj9wd368RD4wBpccVhqHYht8jT5i": {
+        "chainId": 101,
+        "address": "AFNQHDrHdyJ8qebiSj9wd368RD4wBpccVhqHYht8jT5i",
+        "symbol": "f-AFNQ",
+        "name": "Fractionalized SolPunk -1275",
+        "collection": "SolPunks\u0000\u0000",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/dgohzW6OKuVvT7f-uZGTTjXXHXeqZkH631CNRtQWGx4",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/AFNQHDrHdyJ8qebiSj9wd368RD4wBpccVhqHYht8jT5i"
+        }
+    },
+    "A2ARQxGhvFPULXoA5Hxf7GdBFBQD1HxHuYC4aiSBTpMB": {
+        "chainId": 101,
+        "address": "A2ARQxGhvFPULXoA5Hxf7GdBFBQD1HxHuYC4aiSBTpMB",
+        "symbol": "fDU-A2AR",
+        "name": "Fractionalized Drakonaut -2088",
+        "collection": "Drakos Unchained on Solana - The Expansion",
+        "decimals": 2,
+        "logoURI": "https://www.arweave.net/yiEWUSqO5AJz9X1eS7H2WvZ8uxXtteYeAPWn-1WuryA?ext=png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/A2ARQxGhvFPULXoA5Hxf7GdBFBQD1HxHuYC4aiSBTpMB"
+        }
+    },
+    "7rzET1kZ63FGS46EPmg4pHypYp38REMeTHnU9yYzsMHt": {
+        "chainId": 101,
+        "address": "7rzET1kZ63FGS46EPmg4pHypYp38REMeTHnU9yYzsMHt",
+        "symbol": "fDRIP-7rzE",
+        "name": "Fractionalized Drippies -1455",
+        "collection": "Drippies",
+        "decimals": 2,
+        "logoURI": "https://arweave.net/WeX4k81n1xfmCQjaqr16a_iK_R43b8F5mBYiob5YiUQ/1454.png",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/7rzET1kZ63FGS46EPmg4pHypYp38REMeTHnU9yYzsMHt"
+        }
+    },
+    "G7DBpuJj6UdCFFjVhpKKgwohGSmkqMfw1rpVXCDiyqgK": {
+        "chainId": 101,
+        "address": "G7DBpuJj6UdCFFjVhpKKgwohGSmkqMfw1rpVXCDiyqgK",
+        "symbol": "fHELIX-G7DB",
+        "name": "Fractionalized MetaHelix Token -652",
+        "collection": "HELIX\u0000\u0000\u0000\u0000\u0000",
+        "decimals": 2,
+        "logoURI": "https://nft.metahelix.io/view/0i4mk32l21jxaLePWofJ9YHGW5CYpEVb?ext=html",
+        "tags": ["single-asset", "bridgesplit-fraction", "fnft", "main"],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/vault/G7DBpuJj6UdCFFjVhpKKgwohGSmkqMfw1rpVXCDiyqgK"
+        }
+    },
     "BQbVsebR6k422a2uC7kPBnoK9yDCfExGMawt7KRjf2JD": {
         "chainId": 101,
         "address": "BQbVsebR6k422a2uC7kPBnoK9yDCfExGMawt7KRjf2JD",
