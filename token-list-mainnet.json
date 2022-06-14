@@ -12183,5 +12183,26 @@
             "twitter": "https://twitter.com/bridgesplit",
             "vault": "https://app.bridgesplit.com/fractions/4fHNyVDysSVSAjAYi6UGXt3dcsp9sfKN4obe7iKWAh59"
         }
+    },
+    "3XwZtyP5g2ku5cNzLXYcBYygvToXKdjw73GSRq73QYLQ": {
+        "chainId": 101,
+        "address": "3XwZtyP5g2ku5cNzLXYcBYygvToXKdjw73GSRq73QYLQ",
+        "symbol": "KREECHURE",
+        "name": "Kreechures Floor Index",
+        "collection": "Kreechures",
+        "decimals": 2,
+        "logoURI": "https://dl.airtable.com/.attachmentThumbnails/1204ecf0b475bf46a0e65391c3b5e947/fefec436",
+        "tags": [
+            "fraction-index",
+            "bridgesplit-fraction",
+            "kreechures",
+            "fnft",
+            "degen"
+        ],
+        "extensions": {
+            "discord": "https://discord.gg/bridgesplit",
+            "twitter": "https://twitter.com/bridgesplit",
+            "vault": "https://app.bridgesplit.com/fractions/3XwZtyP5g2ku5cNzLXYcBYygvToXKdjw73GSRq73QYLQ"
+        }
     }
 }
